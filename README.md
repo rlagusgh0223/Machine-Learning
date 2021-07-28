@@ -32,7 +32,7 @@ Something like unsupervised learning and lots of algorithm specifically about re
 &nbsp;&nbsp;&nbsp;&nbsp;2) K mean Algorithm <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;3) Principal Component Analysis <br/>
 <br/>
-## Reference
+## Reference <br/>
 * https://www.youtube.com/watch?v=SKq-pmkekTk <br/>
 : You can learn PyTorch zero to all by Sung Kim who teach university student at HKUST <br/>
 * https://www.youtube.com/watch?v=GOCVVSMeIf8 <br/>
