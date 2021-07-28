@@ -10,10 +10,11 @@ Finally, I learn about some of Silicon Valley's best practices in innovation as 
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;In this repository, I put a broad introudction to machine learning, datamining, and statistical pattern recognition.
 Something like unsupervised learning and lots of algorithm specifically about regrssion.
+<br/>
 ####I put most of things for imporving my knowledege not for teaching knowledge to somebody that's what this repository is all about.
 <br/>
 ## Table of Contents
-1. Data Handling <br/>
+1. Data Handling 
 &nbsp;&nbsp;&nbsp;&nbsp;1) Train Set & Test Set <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;2) Data Preprocessing <br/>
 2. Regression Algorithm <br/>
