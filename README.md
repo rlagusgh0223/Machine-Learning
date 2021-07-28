@@ -10,24 +10,24 @@ Finally, I learn about some of Silicon Valley's best practices in innovation as 
 
 In this repository, I put a broad introudction to machine learning, datamining, and statistical pattern recognition.
 Something like unsupervised learning and lots of algorithm specifically about regrssion.   
-####I put most of things for imporving my knowledege not for teaching knowledge to somebody that's what this repository is all about.
+#### I put most of things for imporving my knowledege not for teaching knowledge to somebody that's what this repository is all about.
    
 ## Table of Contents
-1. Data Handling   
+1. Data Handling
 - Train Set & Test Set   
 - Data Preprocessing   
-2. Regression Algorithm   
+2. Regression Algorithm
 - K Nearest Neighbor Classification and Regression   
 - Linear Regression   
 - Characteristics Engineering and Regulation   
-3. Algorithm   
+3. Algorithm
 - Logistic Regression   
 - Stochastic Gradient Descent   
-4 Tree Algorithm   
+4. Tree Algorithm
 - Decision Tree   
 - Cross Validation & Grid Search   
 - Ensemble of trees   
-5. Unsupervised Learning   
+5. Unsupervised Learning
 - Cluster Algorithm   
 - K mean Algorithm   
 - Principal Component Analysis   
