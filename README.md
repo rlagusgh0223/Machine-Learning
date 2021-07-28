@@ -33,6 +33,7 @@ Something like unsupervised learning and lots of algorithm specifically about re
 - Principal Component Analysis   
    
 ## Reference
+All of this websites are for reference that I will refer when I study machine laerning. So if there were person who find some websites about machine learning, maybe it coudle be good for them to see this websites.
 * https://www.youtube.com/watch?v=SKq-pmkekTk
 : You can learn PyTorch zero to all by Sung Kim who teach university student at HKUST
 * https://www.coursera.org/learn/machine-learning?utm_source=gg&utm_medium=sem&utm_campaign=07-StanfordML-ROW&utm_content=07-StanfordML-ROW&campaignid=2070742271&adgroupid=80109820241&device=c&keyword=machine%20learning%20mooc&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=516962315003&hide_mobile_promo&gclid=EAIaIQobChMIypCPt-WE8gIVgeKzCh25JgdlEAAYASAAEgJ-_fD_BwE
